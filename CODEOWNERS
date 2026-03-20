@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @alpha-ra
+/src/backend/database.py      @alpha-ra
+/src/backend/routers/auth.py  @alpha-ra
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @alpha-ra
